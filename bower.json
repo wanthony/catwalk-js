@@ -4,5 +4,16 @@
   "description": "Javascript data model library that plays nicely with Angular",
   "main": "dist/main.js",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    "example",
+    "src",
+    ".gitignore",
+    ".jshintrc",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
 }
