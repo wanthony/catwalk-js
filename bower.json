@@ -3,6 +3,17 @@
   "version": "0.0.3",
   "description": "Javascript data model library that plays nicely with Angular",
   "main": "dist/main.js",
+  "authors": [
+    "Dan Caddigan <goldcaddy77@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "typescript",
+    "gulp"
+  ],
+  "repository": "https://github.com/goldcaddy77/catwalk-js",
   "dependencies": {},
   "devDependencies": {},
   "ignore": [
@@ -15,5 +26,6 @@
     "bower.json",
     "gulpfile.js",
     "package.json"
-  ]
+  ],
+  "license": "MIT"
 }
