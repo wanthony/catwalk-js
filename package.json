@@ -1,6 +1,6 @@
 {
   "name": "catwalk-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Javascript data model library that plays nicely with Angular",
   "main": "dist/main.js",
   "repository": "goldcaddy77/catwalk-js",
