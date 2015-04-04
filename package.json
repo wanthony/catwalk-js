@@ -24,6 +24,11 @@
     "gulp-typescript": "^2.5.0",
     "gulp-util": "^3.0.4",
     "inquirer": "^0.8.2",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1",
+    "karma-typescript-preprocessor": "git://github.com/wanthony/karma-typescript-preprocessor",
     "requirejs": "^2.1.17",
     "typescript": "^1.4.1"
   },
