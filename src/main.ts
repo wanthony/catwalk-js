@@ -24,7 +24,7 @@ module Catwalk {
     registerAdapter?(store : JSData.DS) : void;
   }
 
-  class Model {
+  export class Model {
     private _store : JSData.DS;
     private _model : Object;
     private _resource : any;
